@@ -1,4 +1,5 @@
-import org.example.UserRegistration;
+package com.bridgeLabz;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
